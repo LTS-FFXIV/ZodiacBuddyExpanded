@@ -15,7 +15,7 @@ namespace ZodiacBuddy
     /// </summary>
     public sealed partial class ZodiacBuddyPlugin : IDalamudPlugin
     {
-        private const string Command = "/pzodiac";
+        private const string Command = "/zzodiac";
 
         private readonly AtmaManager animusBuddy;
         private readonly NovusManager novusManager;
