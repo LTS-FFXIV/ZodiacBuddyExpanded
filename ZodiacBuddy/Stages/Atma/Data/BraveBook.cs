@@ -358,29 +358,29 @@ internal struct BraveBook
         return leveID switch
         {
             #pragma warning disable format
-            643 => new MapLinkPayload(147, 24, 22.0f, 29.0f), // Subduing the Subprime           // Northern Thanalan
-            644 => new MapLinkPayload(147, 24, 22.0f, 29.0f), // Necrologos: Pale Oblation       // Northern Thanalan
-            645 => new MapLinkPayload(147, 24, 22.0f, 29.0f), // Don't Forget to Cry             // Northern Thanalan
-            646 => new MapLinkPayload(147, 24, 22.0f, 29.0f), // Circling the Ceruleum           // Northern Thanalan
-            647 => new MapLinkPayload(147, 24, 22.0f, 29.0f), // Someone's in the Doghouse       // Northern Thanalan
-            649 => new MapLinkPayload(155, 53, 13.0f, 17.0f), // Necrologos: Whispers of the Gem // Coerthas Central Highlands
-            650 => new MapLinkPayload(155, 53, 13.0f, 17.0f), // Got a Gut Feeling about This    // Coerthas Central Highlands
-            652 => new MapLinkPayload(155, 53, 13.0f, 17.0f), // The Area's a Bit Sketchy        // Coerthas Central Highlands
-            657 => new MapLinkPayload(156, 25, 30.0f, 13.0f), // Necrologos: The Liminal Ones    // Mor Dhona
-            658 => new MapLinkPayload(156, 25, 30.0f, 13.0f), // Big, Bad Idea                   // Mor Dhona
-            659 => new MapLinkPayload(156, 25, 30.0f, 13.0f), // Put Your Stomp on It            // Mor Dhona
-            848 => new MapLinkPayload(155, 53, 12.0f, 17.0f), // Someone's Got a Big Mouth       // Coerthas Central Highlands
-            849 => new MapLinkPayload(155, 53, 12.0f, 17.0f), // An Imp Mobile                   // Coerthas Central Highlands
-            853 => new MapLinkPayload(155, 53, 12.0f, 17.0f), // Yellow Is the New Black         // Coerthas Central Highlands
-            855 => new MapLinkPayload(155, 53, 12.0f, 17.0f), // The Bloodhounds of Coerthas     // Coerthas Central Highlands
-            859 => new MapLinkPayload(155, 53, 12.0f, 17.0f), // No Big Whoop                    // Coerthas Central Highlands
-            860 => new MapLinkPayload(155, 53, 12.0f, 17.0f), // If You Put It That Way          // Coerthas Central Highlands
-            863 => new MapLinkPayload(156, 25, 31.0f, 12.0f), // One Big Problem Solved          // Mor Dhona
-            865 => new MapLinkPayload(156, 25, 31.0f, 12.0f), // Go Home to Mama                 // Mor Dhona
-            868 => new MapLinkPayload(156, 25, 31.0f, 12.0f), // The Awry Salvages               // Mor Dhona
-            870 => new MapLinkPayload(156, 25, 31.0f, 12.0f), // Get off Our Lake                // Mor Dhona
-            873 => new MapLinkPayload(156, 25, 31.0f, 12.0f), // Who Writes History              // Mor Dhona
-            875 => new MapLinkPayload(156, 25, 31.0f, 12.0f), // The Museum Is Closed            // Mor Dhona
+            643 => new MapLinkPayload(147, 24, 22.1f, 29.4f), // Subduing the Subprime           // Northern Thanalan
+            644 => new MapLinkPayload(147, 24, 22.1f, 29.4f), // Necrologos: Pale Oblation       // Northern Thanalan
+            645 => new MapLinkPayload(147, 24, 22.1f, 29.4f), // Don't Forget to Cry             // Northern Thanalan
+            646 => new MapLinkPayload(147, 24, 22.1f, 29.4f), // Circling the Ceruleum           // Northern Thanalan
+            647 => new MapLinkPayload(147, 24, 22.1f, 29.4f), // Someone's in the Doghouse       // Northern Thanalan
+            649 => new MapLinkPayload(155, 53, 12.6f, 16.7f), // Necrologos: Whispers of the Gem // Coerthas Central Highlands
+            650 => new MapLinkPayload(155, 53, 12.6f, 16.7f), // Got a Gut Feeling about This    // Coerthas Central Highlands
+            652 => new MapLinkPayload(155, 53, 12.6f, 16.7f), // The Area's a Bit Sketchy        // Coerthas Central Highlands
+            657 => new MapLinkPayload(156, 25, 29.8f, 12.5f), // Necrologos: The Liminal Ones    // Mor Dhona
+            658 => new MapLinkPayload(156, 25, 29.8f, 12.5f), // Big, Bad Idea                   // Mor Dhona
+            659 => new MapLinkPayload(156, 25, 29.8f, 12.5f), // Put Your Stomp on It            // Mor Dhona
+            848 => new MapLinkPayload(155, 53, 11.9f, 16.8f), // Someone's Got a Big Mouth       // Coerthas Central Highlands
+            849 => new MapLinkPayload(155, 53, 11.9f, 16.8f), // An Imp Mobile                   // Coerthas Central Highlands
+            853 => new MapLinkPayload(155, 53, 11.9f, 16.8f), // Yellow Is the New Black         // Coerthas Central Highlands
+            855 => new MapLinkPayload(155, 53, 11.9f, 16.8f), // The Bloodhounds of Coerthas     // Coerthas Central Highlands
+            859 => new MapLinkPayload(155, 53, 11.9f, 16.8f), // No Big Whoop                    // Coerthas Central Highlands
+            860 => new MapLinkPayload(155, 53, 11.9f, 16.8f), // If You Put It That Way          // Coerthas Central Highlands
+            863 => new MapLinkPayload(156, 25, 30.7f, 12.1f), // One Big Problem Solved          // Mor Dhona
+            865 => new MapLinkPayload(156, 25, 30.7f, 12.1f), // Go Home to Mama                 // Mor Dhona
+            868 => new MapLinkPayload(156, 25, 30.7f, 12.1f), // The Awry Salvages               // Mor Dhona
+            870 => new MapLinkPayload(156, 25, 30.7f, 12.1f), // Get off Our Lake                // Mor Dhona
+            873 => new MapLinkPayload(156, 25, 30.7f, 12.1f), // Who Writes History              // Mor Dhona
+            875 => new MapLinkPayload(156, 25, 30.7f, 12.1f), // The Museum Is Closed            // Mor Dhona
             #pragma warning restore format
             _ => throw new ArgumentException($"Unregistered leve: {leveID}"),
         };
